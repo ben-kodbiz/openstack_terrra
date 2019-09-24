@@ -2,7 +2,7 @@
 
 #### GLANCE
 variable "image" {
-  default = "Centos 7"
+  default = "Ubuntu Xenial"
 }
 
 #### NEUTRON
