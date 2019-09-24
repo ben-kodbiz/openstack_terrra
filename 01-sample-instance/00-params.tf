@@ -2,7 +2,7 @@
 
 #### GLANCE
 variable "image" {
-  default = "ubuntu trusty"
+  default = "ubuntu xenial"
 }
 
 #### NEUTRON
